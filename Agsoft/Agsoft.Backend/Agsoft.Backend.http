@@ -1,0 +1,6 @@
+@Agsoft.Backend_HostAddress = http://localhost:5096
+
+GET {{Agsoft.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
