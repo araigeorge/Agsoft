@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agsoft.Backend", "Agsoft.Backend\Agsoft.Backend.csproj", "{9DB51284-301B-4FB8-9989-1292AE0B6060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agsoft.Backend", "Agsoft.Backend\Agsoft.Backend.csproj", "{9DB51284-301B-4FB8-9989-1292AE0B6060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agsoft.Frontend", "Agsoft.Frontend\Agsoft.Frontend.csproj", "{DD8CBED6-B937-4357-8182-970CDB632425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agsoft.Frontend", "Agsoft.Frontend\Agsoft.Frontend.csproj", "{DD8CBED6-B937-4357-8182-970CDB632425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agsoft.Shared", "Agsoft.Shared\Agsoft.Shared.csproj", "{78EA6D79-3FC7-4417-B52A-77752F56CAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agsoft.Shared", "Agsoft.Shared\Agsoft.Shared.csproj", "{78EA6D79-3FC7-4417-B52A-77752F56CAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agsoft.Tests", "Agsoft.Tests\Agsoft.Tests.csproj", "{ADFF9803-9146-46DA-AE37-69C01F19EBBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agsoft.Tests", "Agsoft.Tests\Agsoft.Tests.csproj", "{ADFF9803-9146-46DA-AE37-69C01F19EBBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
